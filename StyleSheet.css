@@ -1,4 +1,4 @@
-body {background-color: #9FFFFD;
+body {background-color: #FFC072;
 font-family:"Book Antiqua", sans-serif;}
 
 .Info {display:inline;
@@ -17,7 +17,7 @@ font-family:"Book Antiqua", sans-serif;}
 	padding-top:10px;
 	padding-bottom:10px;}
 
-.col-md-3 {border-top: 3px solid #9FFFFD;
-	border-left: 3px solid #9FFFFD;}
+.col-md-3 {border-top: 3px solid #FFC072;
+	border-left: 3px solid #FFC072;}
 	
 .spacer {padding:25px;}
