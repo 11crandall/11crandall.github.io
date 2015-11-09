@@ -1,4 +1,4 @@
-body {background-color: #E1AC51;
+body {background-color: #3BB076;
 font-family:"Book Antiqua", sans-serif;}
 
 .Info {display:inline;
@@ -10,14 +10,14 @@ font-family:"Book Antiqua", sans-serif;}
 	left:-30px;
 	bottom:-5px;}
 .container {
-	background-color: #FDFFBB;
+	background-color: #2AFFCA;
 	border-radius: 10px;}
 
 .Professional, .Work, .References{
 	padding-top:10px;
 	padding-bottom:10px;}
 
-.col-md-3 {border-top: 3px solid #E1AC51;
-	border-left: 3px solid #E1AC51;}
+.col-md-3 {border-top: 3px solid #3BB076;
+	border-left: 3px solid #3BB076;}
 	
 .spacer {padding:25px;}
